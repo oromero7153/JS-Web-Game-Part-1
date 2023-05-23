@@ -29,3 +29,8 @@ function newItem() {
     )
 }
 newItem();
+function backgroundImg() {
+    let grass = createElement("img", "assets/grass.png", "0px", "0px")
+    let sky = createElement("img", "assets/sky.png", "0px", "610px")
+}
+backgroundImg()
